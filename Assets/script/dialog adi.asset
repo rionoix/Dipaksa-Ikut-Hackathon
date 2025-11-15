@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfcbded001d2fda49be33f7b2c2da869, type: 3}
+  m_Name: dialog adi
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lines:
+  - speakerName: Adi
+    speakerSprite: {fileID: 21300000, guid: cdd2ef2a00577d1408ad133d5a623985, type: 3}
+    text: Napa lu bro
+    isPlayer: 0
+  - speakerName: Agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: Ga ada, capek aja emak gue ngeselin
+    isPlayer: 1
+  - speakerName: Adi
+    speakerSprite: {fileID: 21300000, guid: cdd2ef2a00577d1408ad133d5a623985, type: 3}
+    text: Lah napa emak lu?
+    isPlayer: 0
+  - speakerName: Agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: Kayak mommyh :3
+    isPlayer: 1

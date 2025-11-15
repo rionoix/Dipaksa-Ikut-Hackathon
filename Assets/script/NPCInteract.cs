@@ -26,7 +26,10 @@ public class NPCInteract : MonoBehaviour
         {
             playerInRange = true;
             pressEIcon.SetActive(true);
+
         }
+
+        Debug.Log("Player masuk area NPC");
     }
 
     private void OnTriggerExit2D(Collider2D collision)
@@ -37,4 +40,5 @@ public class NPCInteract : MonoBehaviour
             pressEIcon.SetActive(false);
         }
     }
+
 }
