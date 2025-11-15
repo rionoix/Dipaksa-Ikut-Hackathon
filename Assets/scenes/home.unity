@@ -819,7 +819,7 @@ Transform:
   m_GameObject: {fileID: 527307458}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.21, y: 26.26, z: 12.411}
+  m_LocalPosition: {x: 1.21, y: 26.74, z: 12.411}
   m_LocalScale: {x: 4.136255, y: 4.136255, z: 4.136255}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -859,8 +859,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.014773913, y: -0.056915406}
-  m_Size: {x: 0.36723462, y: 0.81445843}
+  m_Offset: {x: -0.014773908, y: -0.15228239}
+  m_Size: {x: 0.36723462, y: 0.6237244}
   m_Direction: 0
 --- !u!114 &527307464
 MonoBehaviour:
@@ -1195,7 +1195,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3898408255518701069, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 26.12
+      value: 26.71
       objectReference: {fileID: 0}
     - target: {fileID: 3898408255518701069, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1782,8 +1782,9 @@ EdgeCollider2D:
   - {x: 6.739013, y: 56.978683}
   - {x: 6.382754, y: 58.45358}
   - {x: 3.9431534, y: 58.490932}
-  - {x: 2.5956726, y: 63.703205}
+  - {x: 3.8535037, y: 59.15106}
   - {x: 3.9306366, y: 59.663242}
+  - {x: 5.129491, y: 59.710487}
   - {x: 7.5487423, y: 59.80582}
   - {x: 9.435299, y: 59.72986}
   - {x: 9.42485, y: 60.165966}
@@ -1890,8 +1891,8 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: 1.2498411, y: 47.23446}
-  - {x: 1.276963, y: 56.85254}
+  - {x: -2.474927, y: 46.784916}
+  - {x: -0.51994026, y: 47.149265}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
