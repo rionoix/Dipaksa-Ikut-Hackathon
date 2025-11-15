@@ -13,19 +13,53 @@ MonoBehaviour:
   m_Name: dialog adi
   m_EditorClassIdentifier: Assembly-CSharp::DialogueData
   lines:
-  - speakerName: Adi
-    speakerSprite: {fileID: 21300000, guid: cdd2ef2a00577d1408ad133d5a623985, type: 3}
-    text: Napa lu bro
-    isPlayer: 0
   - speakerName: Agus
     speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
-    text: Ga ada, capek aja emak gue ngeselin
+    text: /Keluar dari kelas sambil bergumam dengan wajah bete
+    isPlayer: 1
+  - speakerName: Agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: Kenapa sih mama marah marah, padahal Cuma masalah sepele
     isPlayer: 1
   - speakerName: Adi
     speakerSprite: {fileID: 21300000, guid: cdd2ef2a00577d1408ad133d5a623985, type: 3}
-    text: Lah napa emak lu?
+    text: / Adi melihat Agus
+    isPlayer: 0
+  - speakerName: Adi
+    speakerSprite: {fileID: 21300000, guid: cdd2ef2a00577d1408ad133d5a623985, type: 3}
+    text: Hey Agus, ngapain lu cemberut gitu?
     isPlayer: 0
   - speakerName: Agus
     speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
-    text: Kayak mommyh :3
+    text: Tau nih, nyokap gue pagi tadi marah-marah
+    isPlayer: 1
+  - speakerName: Adi
+    speakerSprite: {fileID: 21300000, guid: cdd2ef2a00577d1408ad133d5a623985, type: 3}
+    text: Lah emangnya kenapa nyokap lu marah?
+    isPlayer: 0
+  - speakerName: Ani
+    speakerSprite: {fileID: 21300000, guid: a9e24a3c9c7303445b56ad067c3fcc76, type: 3}
+    text: /Ani muncul dari belakang
+    isPlayer: 0
+  - speakerName: Ani
+    speakerSprite: {fileID: 21300000, guid: a9e24a3c9c7303445b56ad067c3fcc76, type: 3}
+    text: Eh gue nimbrung dong, ada apa nih?
+    isPlayer: 0
+  - speakerName: Adi
+    speakerSprite: {fileID: 21300000, guid: cdd2ef2a00577d1408ad133d5a623985, type: 3}
+    text: ini nih, si Agus lagi bete dia, nyokapnya marahin dia
+    isPlayer: 0
+  - speakerName: Ani
+    speakerSprite: {fileID: 21300000, guid: a9e24a3c9c7303445b56ad067c3fcc76, type: 3}
+    text: Dimarahin?? Kenapa tuh?
+    isPlayer: 0
+  - speakerName: Agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: Nyokap gue marah karna gue nggak ngeberesin kamar sendiri, trus gue spontan
+      ngebentak dong
+    isPlayer: 1
+  - speakerName: Agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: Soalnyakan lu pada tau kalau tugas sekolah tu pada segunung dah, kesel
+      gue jadinya
     isPlayer: 1
