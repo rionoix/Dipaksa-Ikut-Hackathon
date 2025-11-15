@@ -6,7 +6,7 @@ public class MainMenu : MonoBehaviour
     public void PlayGame()
 {
     Debug.Log("Tombol Start ditekan!");
-    SceneManager.LoadScene("ruang kelas");
+    SceneManager.LoadScene("home");
 }
 
 
