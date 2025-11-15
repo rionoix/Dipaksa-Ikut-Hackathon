@@ -13,11 +13,55 @@ MonoBehaviour:
   m_Name: dialog mommy
   m_EditorClassIdentifier: Assembly-CSharp::DialogueData
   lines:
-  - speakerName: mamah
-    speakerSprite: {fileID: 0}
-    text: hai anak pungut ku
+  - speakerName: Mamah
+    speakerSprite: {fileID: -5408844581102249440, guid: 42933589bd23aea469ff5c90d9f64406, type: 3}
+    text: 'Agus, mama liat kamar kamu masih berantakan, mama udah bilang berkali-kali
+      buat bersihin kamar kamu, sarang penyakit nanti.
+
+'
     isPlayer: 0
-  - speakerName: agus
-    speakerSprite: {fileID: 0}
-    text: hai mamah pungut ku
+  - speakerName: Agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: Iya-iya mah, ntar kan bisa diberesin. Kenapa nggak mama aja sih yang bersihin,
+      lagian mama kan Cuma ngurus online shop di rumah, aku banyak nih tugasnya.
+      Pr dari gurulah, kerja kelompok lah, ekskul juga. Mana sempet ngeberesin kamar
+      maaa
+    isPlayer: 1
+  - speakerName: Mamah
+    speakerSprite: {fileID: -5408844581102249440, guid: 42933589bd23aea469ff5c90d9f64406, type: 3}
+    text: 'Iyaaa, mama tau kok kalau kamu banyak tugas juga. Tapi beresin kamar itu
+      kewajiban kamu juga agus, kerja mama di online shop itu juga ga gampang loh.
+      Selain on-
+
+'
     isPlayer: 0
+  - speakerName: Agus
+    speakerSprite: {fileID: -7691755885717894838, guid: c335157d372bb41459a9d15afb1037f0, type: 3}
+    text: 'Iyaaa iyaaa maaa, mama bawel banget sih, hari masih pagi tapi mama udah
+      marah marah
+
+'
+    isPlayer: 1
+  - speakerName: Mamah
+    speakerSprite: {fileID: -5408844581102249440, guid: 42933589bd23aea469ff5c90d9f64406, type: 3}
+    text: 'Ya kan mama marah karena kamu juga agus, kalau kamu beresin tu kamar,
+      ga bakal marah mama
+
+'
+    isPlayer: 0
+  - speakerName: Agus
+    speakerSprite: {fileID: -7691755885717894838, guid: c335157d372bb41459a9d15afb1037f0, type: 3}
+    text: YA KAN UDAH AGUS BILANG KALAU AGUS GA BISA
+    isPlayer: 1
+  - speakerName: Mamah
+    speakerSprite: {fileID: -4794119850573622849, guid: 5accd2ade6cf59843a1855f8412ac98b, type: 3}
+    text: 'AGUS, KAMU NGEBENTAK MAMA?? UDAH BERANI KAMU YA
+
+'
+    isPlayer: 0
+  - speakerName: Agus
+    speakerSprite: {fileID: -7691755885717894838, guid: c335157d372bb41459a9d15afb1037f0, type: 3}
+    text: 'AKHHH gataulah, aku pergi aja lagi
+
+'
+    isPlayer: 1

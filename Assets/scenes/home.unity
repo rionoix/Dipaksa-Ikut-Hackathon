@@ -819,7 +819,7 @@ Transform:
   m_GameObject: {fileID: 527307458}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.97, y: 26.51, z: 12.411}
+  m_LocalPosition: {x: 1.21, y: 26.26, z: 12.411}
   m_LocalScale: {x: 4.136255, y: 4.136255, z: 4.136255}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1167,15 +1167,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3253838153855417247, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_Size.y
-      value: 4.7613225
+      value: 2.6212528
       objectReference: {fileID: 0}
     - target: {fileID: 3253838153855417247, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_Offset.x
-      value: -0.18136205
+      value: -0.181362
       objectReference: {fileID: 0}
     - target: {fileID: 3253838153855417247, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_Offset.y
-      value: -0.09068113
+      value: -1.1607146
       objectReference: {fileID: 0}
     - target: {fileID: 3898408255518701069, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_LocalScale.x
@@ -1191,11 +1191,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3898408255518701069, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.19
+      value: 5.3
       objectReference: {fileID: 0}
     - target: {fileID: 3898408255518701069, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 26.34
+      value: 26.12
       objectReference: {fileID: 0}
     - target: {fileID: 3898408255518701069, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1231,19 +1231,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4169468113997154243, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_Size.x
-      value: 8.196417
+      value: 6.948173
       objectReference: {fileID: 0}
     - target: {fileID: 4169468113997154243, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_Size.y
-      value: 9.029898
+      value: 4.952303
       objectReference: {fileID: 0}
     - target: {fileID: 4169468113997154243, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_Offset.x
-      value: 0.20012474
+      value: -2.08832
       objectReference: {fileID: 0}
     - target: {fileID: 4169468113997154243, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_Offset.y
-      value: 0.14778924
+      value: 0.022963524
       objectReference: {fileID: 0}
     - target: {fileID: 4169468113997154243, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
@@ -1498,10 +1498,10 @@ EdgeCollider2D:
   - {x: -13.16463, y: 73.645775}
   - {x: -13.11865, y: 74.81152}
   - {x: 20.443752, y: 74.87691}
-  - {x: 20.538322, y: 71.584236}
-  - {x: 46.841553, y: 70.88086}
-  - {x: 46.38701, y: 47.272186}
-  - {x: 46.628433, y: 47.128345}
+  - {x: 20.538322, y: 73.04836}
+  - {x: 47.01722, y: 73.34102}
+  - {x: 47.323208, y: 48.67648}
+  - {x: 46.160343, y: 47.40921}
   - {x: 11.3336525, y: 47.15258}
   - {x: 11.1118145, y: 38.757328}
   - {x: 11.998762, y: 38.81885}
@@ -1677,7 +1677,7 @@ Transform:
   m_GameObject: {fileID: 1742684550}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9.66, y: 3.62, z: 13}
+  m_LocalPosition: {x: 5.97, y: 2.85, z: 13}
   m_LocalScale: {x: 0.38717362, y: 0.38717362, z: 0.38717362}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1767,19 +1767,31 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: 31.145994, y: 59.50827}
-  - {x: 26.906918, y: 55.369747}
-  - {x: 14.042837, y: 54.83976}
-  - {x: 5.885913, y: 56.598763}
-  - {x: 4.93418, y: 57.8811}
-  - {x: 4.249769, y: 58.45358}
-  - {x: 4.5396767, y: 61.383266}
-  - {x: 6.8267274, y: 62.62075}
-  - {x: 9.703463, y: 63.862595}
-  - {x: 17.49823, y: 64.01593}
-  - {x: 26.478321, y: 63.85609}
-  - {x: 29.925085, y: 61.85405}
-  - {x: 33.253662, y: 59.34804}
+  - {x: 28.76787, y: 55.974888}
+  - {x: 33.18006, y: 55.99942}
+  - {x: 32.688652, y: 58.81995}
+  - {x: 33.654663, y: 63.623226}
+  - {x: 32.59265, y: 59.446503}
+  - {x: 28.272768, y: 59.44599}
+  - {x: 27.45721, y: 58.22174}
+  - {x: 27.262234, y: 57.150898}
+  - {x: 26.906918, y: 56.68235}
+  - {x: 16.957195, y: 56.56342}
+  - {x: 14.042837, y: 56.316444}
+  - {x: 7.8548207, y: 56.270615}
+  - {x: 6.739013, y: 56.978683}
+  - {x: 6.382754, y: 58.45358}
+  - {x: 3.9431534, y: 58.490932}
+  - {x: 2.5956726, y: 63.703205}
+  - {x: 3.9306366, y: 59.663242}
+  - {x: 7.5487423, y: 59.80582}
+  - {x: 9.435299, y: 59.72986}
+  - {x: 9.42485, y: 60.165966}
+  - {x: 9.300577, y: 63.614857}
+  - {x: 9.598272, y: 63.965847}
+  - {x: 17.79066, y: 64.00339}
+  - {x: 26.55939, y: 64.12342}
+  - {x: 28.526354, y: 59.542187}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
@@ -1879,7 +1891,7 @@ EdgeCollider2D:
   m_EdgeRadius: 0
   m_Points:
   - {x: 1.2498411, y: 47.23446}
-  - {x: 1.1222513, y: 55.61487}
+  - {x: 1.276963, y: 56.85254}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
