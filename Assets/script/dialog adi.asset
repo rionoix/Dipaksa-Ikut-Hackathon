@@ -19,12 +19,8 @@ MonoBehaviour:
     isPlayer: 1
   - speakerName: Agus
     speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
-    text: Kenapa sih mama marah marah, padahal Cuma masalah sepele
+    text: Kenapa sih mama marah-marah, padahal Cuma masalah sepele
     isPlayer: 1
-  - speakerName: Adi
-    speakerSprite: {fileID: 21300000, guid: cdd2ef2a00577d1408ad133d5a623985, type: 3}
-    text: / Adi melihat Agus
-    isPlayer: 0
   - speakerName: Adi
     speakerSprite: {fileID: 21300000, guid: cdd2ef2a00577d1408ad133d5a623985, type: 3}
     text: Hey Agus, ngapain lu cemberut gitu?
@@ -36,10 +32,6 @@ MonoBehaviour:
   - speakerName: Adi
     speakerSprite: {fileID: 21300000, guid: cdd2ef2a00577d1408ad133d5a623985, type: 3}
     text: Lah emangnya kenapa nyokap lu marah?
-    isPlayer: 0
-  - speakerName: Ani
-    speakerSprite: {fileID: 21300000, guid: a9e24a3c9c7303445b56ad067c3fcc76, type: 3}
-    text: /Ani muncul dari belakang
     isPlayer: 0
   - speakerName: Ani
     speakerSprite: {fileID: 21300000, guid: a9e24a3c9c7303445b56ad067c3fcc76, type: 3}
@@ -60,6 +52,51 @@ MonoBehaviour:
     isPlayer: 1
   - speakerName: Agus
     speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
-    text: Soalnyakan lu pada tau kalau tugas sekolah tu pada segunung dah, kesel
-      gue jadinya
+    text: Soalnya kan lu tau kalau tugas sekolah tu pada segunung, kesel gue jadinya
+    isPlayer: 1
+  - speakerName: Ani
+    speakerSprite: {fileID: 21300000, guid: a9e24a3c9c7303445b56ad067c3fcc76, type: 3}
+    text: Ya kalau kamu sering nggak bersihin mah, wajar aja nyokap lu marah
+    isPlayer: 0
+  - speakerName: Ani
+    speakerSprite: {fileID: 21300000, guid: a9e24a3c9c7303445b56ad067c3fcc76, type: 3}
+    text: Dan juga lu ngebentak nyokap lu agus, mau jadi anak durhaka lu?
+    isPlayer: 0
+  - speakerName: Agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: Lah lu kok ga ngebela gue sih ni
+    isPlayer: 1
+  - speakerName: Adi
+    speakerSprite: {fileID: 21300000, guid: cdd2ef2a00577d1408ad133d5a623985, type: 3}
+    text: Ya lu pikir aja lah, masalah kamar berantakan itu satu hal. Tapi kalau
+      masalah lu ngebentak nyokap itu dah keterlaluan Agus, dosa lu
+    isPlayer: 0
+  - speakerName: Ani
+    speakerSprite: {fileID: 21300000, guid: a9e24a3c9c7303445b56ad067c3fcc76, type: 3}
+    text: Iya Agus.. nyokap lu marah pun karna peduli, kamar kotor tu jadi sarang
+      penyakit tauu
+    isPlayer: 0
+  - speakerName: Adi
+    speakerSprite: {fileID: 21300000, guid: cdd2ef2a00577d1408ad133d5a623985, type: 3}
+    text: Bener tuh kata si Ani, mending lu minta maaf sama nyokap lu
+    isPlayer: 0
+  - speakerName: Agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: Iya iya, nanti gua coba minta maaf sama nyokap gue
+    isPlayer: 1
+  - speakerName: Adi
+    speakerSprite: {fileID: 21300000, guid: cdd2ef2a00577d1408ad133d5a623985, type: 3}
+    text: Nah gitu dong
+    isPlayer: 0
+  - speakerName: Ani
+    speakerSprite: {fileID: 21300000, guid: a9e24a3c9c7303445b56ad067c3fcc76, type: 3}
+    text: Oh ya, jangan lupa ya, besok kita juga juga bakalan goro juga di kelas
+    isPlayer: 1
+  - speakerName: Agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: /cih, bebersih lagi
+    isPlayer: 1
+  - speakerName: 
+    speakerSprite: {fileID: 0}
+    text: Time Skip ke Waktu Pulang Sekolah
     isPlayer: 1
