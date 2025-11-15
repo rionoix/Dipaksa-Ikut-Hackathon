@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: aabb24ba3f61fbc4d98cb94f68bbd8a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1098716211905519387
+    second: noda 4_0
+  - first:
+      213: -2357417241502256210
+    second: noda 4_1
+  - first:
+      213: 8895576799144007015
+    second: noda 4_2
+  - first:
+      213: -3956790074433656377
+    second: noda 4_3
+  - first:
+      213: -503102136228592319
+    second: noda 4_4
+  - first:
+      213: 2451261325584307644
+    second: noda 4_5
+  - first:
+      213: 5019371783941021128
+    second: noda 4_6
+  - first:
+      213: -6626640036748871636
+    second: noda 4_7
+  - first:
+      213: -7791461179836253603
+    second: noda 4_8
+  - first:
+      213: -5900958819575555787
+    second: noda 4_9
+  - first:
+      213: 7972926444139615422
+    second: noda 4_10
+  - first:
+      213: -7020015535312232550
+    second: noda 4_11
+  - first:
+      213: 4693417613219787608
+    second: noda 4_12
+  - first:
+      213: 4581740696547200194
+    second: noda 4_13
+  - first:
+      213: 6461766239081001003
+    second: noda 4_14
+  - first:
+      213: -7021825031720883029
+    second: noda 4_15
+  - first:
+      213: -2385295736165303349
+    second: noda 4_16
+  - first:
+      213: 5291247156648906525
+    second: noda 4_17
+  - first:
+      213: 2280552369476465308
+    second: noda 4_18
+  - first:
+      213: -7149950378174673195
+    second: noda 4_19
+  - first:
+      213: -6805166403653135132
+    second: noda 4_20
+  - first:
+      213: 4719816135660521295
+    second: noda 4_21
+  - first:
+      213: -5306023648301793834
+    second: noda 4_22
+  - first:
+      213: 4873192673508456733
+    second: noda 4_23
+  - first:
+      213: 7764852453763878953
+    second: noda 4_24
+  - first:
+      213: 7530545328727312164
+    second: noda 4_25
+  - first:
+      213: -6263435115995637582
+    second: noda 4_26
+  - first:
+      213: 136661619667188246
+    second: noda 4_27
+  - first:
+      213: 6870842981713774205
+    second: noda 4_28
+  - first:
+      213: 3797564433102648249
+    second: noda 4_29
+  - first:
+      213: -5415810967978255104
+    second: noda 4_30
+  - first:
+      213: 4535651993415815008
+    second: noda 4_31
+  - first:
+      213: -5042342442096857360
+    second: noda 4_32
+  - first:
+      213: 1150422082241386126
+    second: noda 4_33
+  - first:
+      213: -1088656910071963370
+    second: noda 4_34
+  - first:
+      213: -669392634973555529
+    second: noda 4_35
+  - first:
+      213: 1240668658886435247
+    second: noda 4_36
+  - first:
+      213: 7547591314631687693
+    second: noda 4_37
+  - first:
+      213: 8575407610383498819
+    second: noda 4_38
+  - first:
+      213: -2491727533656809161
+    second: noda 4_39
+  - first:
+      213: -6880323062932617369
+    second: noda 4_40
+  - first:
+      213: 1563586533123637196
+    second: noda 4_41
+  - first:
+      213: -6601257473579618435
+    second: noda 4_42
+  - first:
+      213: -1946835308126468580
+    second: noda 4_43
+  - first:
+      213: -7489726593156438805
+    second: noda 4_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noda 4_0
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2458
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0a8603d6390c0f0800000000000000
+      internalID: -1098716211905519387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_1
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2475
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea370ec4285c84fd0800000000000000
+      internalID: -2357417241502256210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_2
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2461
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7655f21d7ff637b70800000000000000
+      internalID: 8895576799144007015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_3
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2475
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9279a2468a619c0800000000000000
+      internalID: -3956790074433656377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_4
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 2421
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145ca5cc54f9409f0800000000000000
+      internalID: -503102136228592319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_5
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 2456
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb51b133031a40220800000000000000
+      internalID: 2451261325584307644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_6
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2454
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd5c613b0468a540800000000000000
+      internalID: 5019371783941021128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_7
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 2449
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28b33bfef17904a0800000000000000
+      internalID: -6626640036748871636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2452
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a3d9e765b2fd390800000000000000
+      internalID: -7791461179836253603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_9
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 2431
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5399dfcd7359b1ea0800000000000000
+      internalID: -5900958819575555787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_10
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2460
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4924bcb5685ae60800000000000000
+      internalID: 7972926444139615422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_11
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 2461
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f9df37015e39e90800000000000000
+      internalID: -7020015535312232550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_12
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2430
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853f682d37e522140800000000000000
+      internalID: 4693417613219787608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_13
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 2440
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc85ae63ec959f30800000000000000
+      internalID: 4581740696547200194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_14
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2414
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20f806982ecca950800000000000000
+      internalID: 6461766239081001003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2400
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baca45d36577d8e90800000000000000
+      internalID: -7021825031720883029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_16
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2424
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbfc917a2ab5eed0800000000000000
+      internalID: -2385295736165303349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2411
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f8ad631494e6940800000000000000
+      internalID: 5291247156648906525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2382
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92f1521c4626af10800000000000000
+      internalID: 2280552369476465308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_19
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2374
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de8a3b530646cc90800000000000000
+      internalID: -7149950378174673195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_20
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2374
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e415d016313f81a0800000000000000
+      internalID: -6805166403653135132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_21
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2398
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47c33bc4c7208140800000000000000
+      internalID: 4719816135660521295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_22
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2394
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd3629ba973d56b0800000000000000
+      internalID: -5306023648301793834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_23
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2398
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19f182daee01a340800000000000000
+      internalID: 4873192673508456733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_24
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2380
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9209aefaa2c42cb60800000000000000
+      internalID: 7764852453763878953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_25
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 2373
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427c4c3f31fd18860800000000000000
+      internalID: 7530545328727312164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2324
+        height: 2391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b85f5572fec319a0800000000000000
+      internalID: -6263435115995637582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2373
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a31bed40585e100800000000000000
+      internalID: 136661619667188246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_28
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2371
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d760980e9432a5f50800000000000000
+      internalID: 6870842981713774205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_29
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1815
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3bdb64bb8a3b430800000000000000
+      internalID: 3797564433102648249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_30
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 1697
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dddfa6e9c27d4b0800000000000000
+      internalID: -5415810967978255104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_31
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 1654
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f8754057fd1fe30800000000000000
+      internalID: 4535651993415815008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_32
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1652
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fee0fea340060ab0800000000000000
+      internalID: -5042342442096857360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_33
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 1585
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8653c1e9ce17ff00800000000000000
+      internalID: 1150422082241386126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_34
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 1612
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611e2e8ee4054e0f0800000000000000
+      internalID: -1088656910071963370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_35
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1547
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b47321f1f6d5b6f0800000000000000
+      internalID: -669392634973555529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_36
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 1468
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1e2e8629db73110800000000000000
+      internalID: 1240668658886435247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_37
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 1490
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ef172df4e6eb860800000000000000
+      internalID: 7547591314631687693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_38
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 1401
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ef61589c7f10770800000000000000
+      internalID: 8575407610383498819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_39
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 1189
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7316357820b9b6dd0800000000000000
+      internalID: -2491727533656809161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_40
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 1009
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76749f5b0ae2480a0800000000000000
+      internalID: -6880323062932617369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_41
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 829
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf3b6aeaa9f2b510800000000000000
+      internalID: 1563586533123637196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_42
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 846
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fe4608d4f9364a0800000000000000
+      internalID: -6601257473579618435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_43
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 773
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c160fee1a937bf4e0800000000000000
+      internalID: -1946835308126468580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noda 4_44
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 653
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be42d1688552f0890800000000000000
+      internalID: -7489726593156438805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      noda 4_0: -1098716211905519387
+      noda 4_1: -2357417241502256210
+      noda 4_10: 7972926444139615422
+      noda 4_11: -7020015535312232550
+      noda 4_12: 4693417613219787608
+      noda 4_13: 4581740696547200194
+      noda 4_14: 6461766239081001003
+      noda 4_15: -7021825031720883029
+      noda 4_16: -2385295736165303349
+      noda 4_17: 5291247156648906525
+      noda 4_18: 2280552369476465308
+      noda 4_19: -7149950378174673195
+      noda 4_2: 8895576799144007015
+      noda 4_20: -6805166403653135132
+      noda 4_21: 4719816135660521295
+      noda 4_22: -5306023648301793834
+      noda 4_23: 4873192673508456733
+      noda 4_24: 7764852453763878953
+      noda 4_25: 7530545328727312164
+      noda 4_26: -6263435115995637582
+      noda 4_27: 136661619667188246
+      noda 4_28: 6870842981713774205
+      noda 4_29: 3797564433102648249
+      noda 4_3: -3956790074433656377
+      noda 4_30: -5415810967978255104
+      noda 4_31: 4535651993415815008
+      noda 4_32: -5042342442096857360
+      noda 4_33: 1150422082241386126
+      noda 4_34: -1088656910071963370
+      noda 4_35: -669392634973555529
+      noda 4_36: 1240668658886435247
+      noda 4_37: 7547591314631687693
+      noda 4_38: 8575407610383498819
+      noda 4_39: -2491727533656809161
+      noda 4_4: -503102136228592319
+      noda 4_40: -6880323062932617369
+      noda 4_41: 1563586533123637196
+      noda 4_42: -6601257473579618435
+      noda 4_43: -1946835308126468580
+      noda 4_44: -7489726593156438805
+      noda 4_5: 2451261325584307644
+      noda 4_6: 5019371783941021128
+      noda 4_7: -6626640036748871636
+      noda 4_8: -7791461179836253603
+      noda 4_9: -5900958819575555787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
