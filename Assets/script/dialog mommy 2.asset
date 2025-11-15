@@ -13,21 +13,41 @@ MonoBehaviour:
   m_Name: dialog mommy 2
   m_EditorClassIdentifier: Assembly-CSharp::DialogueData
   lines:
-  - speakerName: Mamah
-    speakerSprite: {fileID: -2355957690950697401, guid: 8230e0f222012ee4da31c11db972a994, type: 3}
-    text: 'selamat datang gus
-
-'
+  - speakerName: Mama
+    speakerSprite: {fileID: 257402128415882527, guid: fe1b164d35f3847428a019e100cc9c44, type: 3}
+    text: Selamat datang Agus
     isPlayer: 0
   - speakerName: Agus
     speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
-    text: mama kenapa?
+    text: iya ma, mama kenapa make kompres? Mama demam ya?
     isPlayer: 1
   - speakerName: Mamah
-    speakerSprite: {fileID: -2355957690950697401, guid: 8230e0f222012ee4da31c11db972a994, type: 3}
-    text: mama sakit
+    speakerSprite: {fileID: 257402128415882527, guid: fe1b164d35f3847428a019e100cc9c44, type: 3}
+    text: Iya Agus, mama lagi demam. Mungkin karena mama kelelahan
     isPlayer: 0
   - speakerName: agus
-    speakerSprite: {fileID: 5469085502487917549, guid: b9bd245401a0d7a43a9a85ed2caa8eb6, type: 3}
-    text: okelah, agus bantu
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: ma.. maafin agus karena ngebentak mama tadi pagi ma
+    isPlayer: 1
+  - speakerName: agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: Agus sadar kalau apa yang agus katakan itu salah
+    isPlayer: 1
+  - speakerName: agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: Karena Agus, mama jadi kelelahan. Maafin agus ya ma
+    isPlayer: 1
+  - speakerName: mama
+    speakerSprite: {fileID: 257402128415882527, guid: fe1b164d35f3847428a019e100cc9c44, type: 3}
+    text: Iya Agus, gapapa, lain kali jangan diulangi ya. Sedih hati mama nak kalau
+      kamu kayak gitu
+    isPlayer: 0
+  - speakerName: mama
+    speakerSprite: {fileID: 257402128415882527, guid: fe1b164d35f3847428a019e100cc9c44, type: 3}
+    text: Kalau gitu, coba deh kamu beresin dulu mulai dari kamar kamu. Mama mau
+      tidur dulu karena badan mama masih ga enak
+    isPlayer: 0
+  - speakerName: Agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: Siap maa, langsung Agus beresin ya maa
     isPlayer: 1

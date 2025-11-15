@@ -15,7 +15,7 @@ MonoBehaviour:
   lines:
   - speakerName: Agus
     speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
-    text: /Keluar dari kelas sambil bergumam dengan wajah bete
+    text: /Berjalan sambil bergumam dengan wajah bete
     isPlayer: 1
   - speakerName: Agus
     speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
