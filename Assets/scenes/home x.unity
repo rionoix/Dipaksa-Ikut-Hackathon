@@ -389,7 +389,7 @@ PrefabInstance:
     - target: {fileID: 5990566587113790777, guid: 9ac11090e00bd284abdc35ceabe4748e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
       value: 
-      objectReference: {fileID: 11400000, guid: 4864ea00b4543934eb9946bf0ca8c919, type: 2}
+      objectReference: {fileID: 11400000, guid: edb52638dc4fe3e4ba351a9eee9cef90, type: 2}
     - target: {fileID: 6611201339007022443, guid: 9ac11090e00bd284abdc35ceabe4748e, type: 3}
       propertyPath: m_Name
       value: NPC Interract tombol
@@ -1139,12 +1139,12 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1207562217741752187, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_FlipX
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1207562217741752187, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 1911499626118757657, guid: 96908c8bd82d4244ab22fc918974676e, type: 3}
+      objectReference: {fileID: 3465194907057735897, guid: e26bea681ccc8f243bdd7067aa0ab953, type: 3}
     - target: {fileID: 2356304424926796065, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_Size.x
       value: 5.2458754
@@ -1191,11 +1191,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3898408255518701069, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10
+      value: 41.3
       objectReference: {fileID: 0}
     - target: {fileID: 3898408255518701069, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.6
+      value: 43.5
       objectReference: {fileID: 0}
     - target: {fileID: 3898408255518701069, guid: 3c22241edfa8edf41bca45bbae7ea755, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1677,7 +1677,7 @@ Transform:
   m_GameObject: {fileID: 1742684550}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9.66, y: 3.62, z: 13}
+  m_LocalPosition: {x: 29.8, y: 51.6, z: 13}
   m_LocalScale: {x: 0.38717362, y: 0.38717362, z: 0.38717362}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1770,9 +1770,9 @@ EdgeCollider2D:
   - {x: 31.145994, y: 59.50827}
   - {x: 26.906918, y: 55.369747}
   - {x: 14.042837, y: 54.83976}
-  - {x: 5.885913, y: 56.598763}
-  - {x: 4.93418, y: 57.8811}
-  - {x: 4.249769, y: 58.45358}
+  - {x: 7.924832, y: 58.99749}
+  - {x: 7.7526913, y: 59.979984}
+  - {x: 6.048819, y: 60.19266}
   - {x: 4.5396767, y: 61.383266}
   - {x: 6.8267274, y: 62.62075}
   - {x: 9.703463, y: 63.862595}
@@ -1878,8 +1878,8 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: 1.2498411, y: 47.23446}
-  - {x: 1.1222513, y: 55.61487}
+  - {x: 1.2498411, y: 47.174488}
+  - {x: -6.013979, y: 47.099365}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfcbded001d2fda49be33f7b2c2da869, type: 3}
+  m_Name: dialog mommy 2
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lines:
+  - speakerName: Mamah
+    speakerSprite: {fileID: -2355957690950697401, guid: 8230e0f222012ee4da31c11db972a994, type: 3}
+    text: 'selamat datang gus
+
+'
+    isPlayer: 0
+  - speakerName: Agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: mama kenapa?
+    isPlayer: 1
+  - speakerName: Mamah
+    speakerSprite: {fileID: -2355957690950697401, guid: 8230e0f222012ee4da31c11db972a994, type: 3}
+    text: mama sakit
+    isPlayer: 0
+  - speakerName: agus
+    speakerSprite: {fileID: 5469085502487917549, guid: b9bd245401a0d7a43a9a85ed2caa8eb6, type: 3}
+    text: okelah, agus bantu
+    isPlayer: 1

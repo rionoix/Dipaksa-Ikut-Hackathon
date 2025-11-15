@@ -9,7 +9,6 @@ public class MainMenu : MonoBehaviour
     SceneManager.LoadScene("home");
 }
 
-
     public void QuitGame()
     {
         Debug.Log("Keluar game...");
