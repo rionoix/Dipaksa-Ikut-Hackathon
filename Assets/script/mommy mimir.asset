@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfcbded001d2fda49be33f7b2c2da869, type: 3}
+  m_Name: mommy mimir
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lines:
+  - speakerName: 
+    speakerSprite: {fileID: -3264634609718136374, guid: 394ad157ced28a7448f33f96420effee, type: 3}
+    text: // agus melihat mama masih sakit dan khawatir..
+    isPlayer: 0
+  - speakerName: Agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: ma, mama masih demam?
+    isPlayer: 1
+  - speakerName: Mama
+    speakerSprite: {fileID: 257402128415882527, guid: fe1b164d35f3847428a019e100cc9c44, type: 3}
+    text: iya gus.. maaf ya rumah masih berantakan
+    isPlayer: 0
+  - speakerName: Mamah
+    speakerSprite: {fileID: 257402128415882527, guid: fe1b164d35f3847428a019e100cc9c44, type: 3}
+    text: mama gakuat besihin
+    isPlayer: 0
+  - speakerName: agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: iya ma gpp, biar agus aja yang bantu bersihin rumah ya ma
+    isPlayer: 1
+  - speakerName: agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: mama istirahat aja dulu
+    isPlayer: 1
+  - speakerName: mama
+    speakerSprite: {fileID: 257402128415882527, guid: fe1b164d35f3847428a019e100cc9c44, type: 3}
+    text: makasih banyak agus.. semampunya aja ya
+    isPlayer: 0
+  - speakerName: mama
+    speakerSprite: {fileID: 257402128415882527, guid: fe1b164d35f3847428a019e100cc9c44, type: 3}
+    text: nanti pas mama sehat mama bersihin
+    isPlayer: 0
+  - speakerName: Agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: iya ma, cepat sembuh ya ma
+    isPlayer: 1
+  - speakerName: Agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: (dalam hati) agus harus bersihin rumah sebagai permintaan maaf sampai mama
+      sembuh
+    isPlayer: 1

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfcbded001d2fda49be33f7b2c2da869, type: 3}
+  m_Name: ending 1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lines:
+  - speakerName: 
+    speakerSprite: {fileID: -3264634609718136374, guid: 394ad157ced28a7448f33f96420effee, type: 3}
+    text: // cerita berakhir sampai disini, ditunggu versi selanjutnya
+    isPlayer: 0
+  - speakerName: Agus
+    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
+    text: eh dah habis aja ni?
+    isPlayer: 1
+  - speakerName: mama
+    speakerSprite: {fileID: 257402128415882527, guid: fe1b164d35f3847428a019e100cc9c44, type: 3}
+    text: iyah gus, mama lagi sakit, sambung next time yah
+    isPlayer: 0
+  - speakerName: mama
+    speakerSprite: {fileID: 257402128415882527, guid: fe1b164d35f3847428a019e100cc9c44, type: 3}
+    text: sampai jumpa lagi nanti (kalau ingat)
+    isPlayer: 0
+  - speakerName: mama
+    speakerSprite: {fileID: 257402128415882527, guid: fe1b164d35f3847428a019e100cc9c44, type: 3}
+    text: silahkan lanjutkan bersihkan sisa sampah dirumah yaa
+    isPlayer: 0
+  - speakerName: mama
+    speakerSprite: {fileID: 257402128415882527, guid: fe1b164d35f3847428a019e100cc9c44, type: 3}
+    text: cerita tamat sampai disini
+    isPlayer: 0
+  - speakerName: mama
+    speakerSprite: {fileID: 257402128415882527, guid: fe1b164d35f3847428a019e100cc9c44, type: 3}
+    text: 'see youu '
+    isPlayer: 0
