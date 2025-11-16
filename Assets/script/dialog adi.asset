@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: dialog adi
   m_EditorClassIdentifier: Assembly-CSharp::DialogueData
   lines:
-  - speakerName: Agus
-    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
-    text: /Berjalan sambil bergumam dengan wajah bete
-    isPlayer: 1
+  - speakerName: 
+    speakerSprite: {fileID: -3264634609718136374, guid: 394ad157ced28a7448f33f96420effee, type: 3}
+    text: // agus berjalan sambil bergumam dengan wajah bete
+    isPlayer: 0
   - speakerName: Agus
     speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
     text: Kenapa sih mama marah-marah, padahal Cuma masalah sepele
@@ -91,4 +91,8 @@ MonoBehaviour:
   - speakerName: Ani
     speakerSprite: {fileID: 21300000, guid: a9e24a3c9c7303445b56ad067c3fcc76, type: 3}
     text: Oh ya, jangan lupa ya, besok kita juga juga bakalan goro juga di kelas
-    isPlayer: 1
+    isPlayer: 0
+  - speakerName: 
+    speakerSprite: {fileID: -3264634609718136374, guid: 394ad157ced28a7448f33f96420effee, type: 3}
+    text: // agus menjalani kegiatan sekolah dan pulang
+    isPlayer: 0

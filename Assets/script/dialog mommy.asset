@@ -13,19 +13,21 @@ MonoBehaviour:
   m_Name: dialog mommy
   m_EditorClassIdentifier: Assembly-CSharp::DialogueData
   lines:
+  - speakerName: 
+    speakerSprite: {fileID: -3264634609718136374, guid: 394ad157ced28a7448f33f96420effee, type: 3}
+    text: agus, seorang anak yang pemalas dan tidak pernah menjaga kebersihan
+    isPlayer: 1
+  - speakerName: 
+    speakerSprite: {fileID: -3264634609718136374, guid: 394ad157ced28a7448f33f96420effee, type: 3}
+    text: hingga mama nya memarahinya
+    isPlayer: 1
   - speakerName: Mamah
     speakerSprite: {fileID: -5408844581102249440, guid: 42933589bd23aea469ff5c90d9f64406, type: 3}
-    text: 'Agus, mama liat kamar kamu masih berantakan, mama udah bilang berkali-kali
-      buat bersihin kamar kamu, sarang penyakit nanti.
-
-'
+    text: Agus, mama liat kamar kamu masih berantakan, bersihkan lah kamarnya
     isPlayer: 0
   - speakerName: Agus
     speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
-    text: Iya-iya mah, ntar kan bisa diberesin. Kenapa nggak mama aja sih yang bersihin,
-      lagian mama kan Cuma ngurus online shop di rumah, aku banyak nih tugasnya.
-      Pr dari gurulah, kerja kelompok lah, ekskul juga. Mana sempet ngeberesin kamar
-      maaa
+    text: iya ma ntar lah.. tugas aku banyak ma
     isPlayer: 1
   - speakerName: Mamah
     speakerSprite: {fileID: -5408844581102249440, guid: 42933589bd23aea469ff5c90d9f64406, type: 3}
@@ -55,7 +57,7 @@ MonoBehaviour:
     isPlayer: 1
   - speakerName: Mamah
     speakerSprite: {fileID: -4794119850573622849, guid: 5accd2ade6cf59843a1855f8412ac98b, type: 3}
-    text: 'AGUS, KAMU NGEBENTAK MAMA?? UDAH BERANI KAMU YA
+    text: 'AGUS??
 
 '
     isPlayer: 0
@@ -65,3 +67,11 @@ MonoBehaviour:
 
 '
     isPlayer: 1
+  - speakerName: 
+    speakerSprite: {fileID: -3264634609718136374, guid: 394ad157ced28a7448f33f96420effee, type: 3}
+    text: agus pun pergi berangkat ke sekolah dengan perasaan kesal
+    isPlayer: 1
+  - speakerName: 
+    speakerSprite: {fileID: -3264634609718136374, guid: 394ad157ced28a7448f33f96420effee, type: 3}
+    text: // pergi menuju pintu depan rumah dan pergi kesekolah
+    isPlayer: 0
