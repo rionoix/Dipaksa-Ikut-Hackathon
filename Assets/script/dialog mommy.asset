@@ -13,16 +13,8 @@ MonoBehaviour:
   m_Name: dialog mommy
   m_EditorClassIdentifier: Assembly-CSharp::DialogueData
   lines:
-  - speakerName: 
-    speakerSprite: {fileID: -3264634609718136374, guid: 394ad157ced28a7448f33f96420effee, type: 3}
-    text: agus, seorang anak yang pemalas dan tidak pernah menjaga kebersihan
-    isPlayer: 1
-  - speakerName: 
-    speakerSprite: {fileID: -3264634609718136374, guid: 394ad157ced28a7448f33f96420effee, type: 3}
-    text: hingga mama nya memarahinya
-    isPlayer: 1
   - speakerName: Mamah
-    speakerSprite: {fileID: -5408844581102249440, guid: 42933589bd23aea469ff5c90d9f64406, type: 3}
+    speakerSprite: {fileID: -5408844581102249440, guid: b90d7c39fab2d0d488d0e824577a1ca2, type: 3}
     text: Agus, mama liat kamar kamu masih berantakan, bersihkan lah kamarnya
     isPlayer: 0
   - speakerName: Agus
@@ -30,7 +22,7 @@ MonoBehaviour:
     text: iya ma ntar lah.. tugas aku banyak ma
     isPlayer: 1
   - speakerName: Mamah
-    speakerSprite: {fileID: -5408844581102249440, guid: 42933589bd23aea469ff5c90d9f64406, type: 3}
+    speakerSprite: {fileID: -5408844581102249440, guid: b90d7c39fab2d0d488d0e824577a1ca2, type: 3}
     text: 'Iyaaa, mama tau kok kalau kamu banyak tugas juga. Tapi beresin kamar itu
       kewajiban kamu juga agus, kerja mama di online shop itu juga ga gampang loh.
       Selain on-
@@ -45,7 +37,7 @@ MonoBehaviour:
 '
     isPlayer: 1
   - speakerName: Mamah
-    speakerSprite: {fileID: -5408844581102249440, guid: 42933589bd23aea469ff5c90d9f64406, type: 3}
+    speakerSprite: {fileID: -5408844581102249440, guid: b90d7c39fab2d0d488d0e824577a1ca2, type: 3}
     text: 'Ya kan mama marah karena kamu juga agus, kalau kamu beresin tu kamar,
       ga bakal marah mama
 
