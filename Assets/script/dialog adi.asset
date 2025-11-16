@@ -92,11 +92,3 @@ MonoBehaviour:
     speakerSprite: {fileID: 21300000, guid: a9e24a3c9c7303445b56ad067c3fcc76, type: 3}
     text: Oh ya, jangan lupa ya, besok kita juga juga bakalan goro juga di kelas
     isPlayer: 1
-  - speakerName: Agus
-    speakerSprite: {fileID: 21300000, guid: 47d4fbece7c700645816f0d10f963b2d, type: 3}
-    text: /cih, bebersih lagi
-    isPlayer: 1
-  - speakerName: 
-    speakerSprite: {fileID: 0}
-    text: Time Skip ke Waktu Pulang Sekolah
-    isPlayer: 1
