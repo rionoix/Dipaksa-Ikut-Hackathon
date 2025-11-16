@@ -1,38 +1,34 @@
-using System.Collections.Generic;
 using UnityEngine;
 
-/// <summary>
-/// Pasang script ini pada 1 GameObject (mis. "GameManager" atau empty GameObject).
-/// Sambungkan fungsi ChangeOrHideAll() ke Button UI OnClick.
-/// </summary>
 public class BendaManager : MonoBehaviour
 {
-    // Fungsi ini akan memanggil perubahan pada semua benda yang terdaftar.
-    public void ChangeOrHideAll()
+    [Header("Setup")]
+    public Transform player;         // Drag Player di inspector
+    public float jarakMaksimum = 5f; // Radius interaksi
+
+    public void ChangeNearest()
     {
-        // Jika ada controller yang sudah terdaftar, pakai itu.
-        if (BendaSpriteController.allControllers != null && BendaSpriteController.allControllers.Count > 0)
+        BendaSpriteController[] allBenda = FindObjectsOfType<BendaSpriteController>();
+        BendaSpriteController nearest = null;
+        float nearestDist = Mathf.Infinity;
+
+        foreach (var benda in allBenda)
         {
-            BendaSpriteController.ChangeOrHideAllRegistered();
-            return;
+            float dist = Vector2.Distance(player.position, benda.transform.position);
+            if (dist <= jarakMaksimum && dist < nearestDist)
+            {
+                nearestDist = dist;
+                nearest = benda;
+            }
         }
 
-        // Fallback: cari semua BendaSpriteController di scene (termasuk inactive jika Unity mendukung overload)
-#if UNITY_2020_1_OR_NEWER
-        var found = FindObjectsOfType<BendaSpriteController>(true);
-#else
-        var found = FindObjectsOfType<BendaSpriteController>();
-#endif
-        foreach (var c in found)
+        if (nearest != null)
         {
-            if (c != null) c.ChangeOrHide();
+            nearest.ChangeOrHide();
         }
-    }
-
-    // Optional: method untuk tombol yang hanya mengubah satu tipe (tidak dipakai default)
-    public void ChangeOrHideAllButOnlyIfHasNewSprite()
-    {
-        // contoh variasi jika mau logika berbeda
-        ChangeOrHideAll();
+        else
+        {
+            Debug.Log("Tidak ada benda di dekat player saat ini.");
+        }
     }
 }
